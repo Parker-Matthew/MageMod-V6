@@ -1,0 +1,36 @@
+{
+  "item.magemod.ectoplasm": "Ectoplasm",
+  "item.magemod.camo": "Camo",
+  "item.magemod.dry_water": "Dry Water",
+  "item.magemod.curse": "Curse",
+  "item.magemod.red_glow": "RedGlow",
+
+  "item.magemod.camo_helmet": "Camo Helmet",
+  "item.magemod.camo_chestplate": "Camo Chestplate",
+  "item.magemod.camo_leggings": "Camo Leggings",
+  "item.magemod.camo_boots": "Camo Boots",
+
+  "item.magemod.ectoplasm_helmet": "Ectoplasm Helmet",
+  "item.magemod.ectoplasm_chestplate": "Ectoplasm Chestplate",
+  "item.magemod.ectoplasm_leggings": "Ectoplasm Leggings",
+  "item.magemod.ectoplasm_boots": "Ectoplasm Boots",
+
+  "item.magemod.dry_water_helmet": "Dry Water Helmet",
+  "item.magemod.dry_water_chestplate": "Dry Water Chestplate",
+  "item.magemod.dry_water_leggings": "Dry Water Leggings",
+  "item.magemod.dry_water_boots": "Dry Water Boots",
+
+  "item.magemod.redglow_helmet": "Redglow Helmet",
+  "item.magemod.redglow_chestplate": "Redglow Chestplate",
+  "item.magemod.redglow_leggings": "Redglow Leggings",
+  "item.magemod.redglow_boots": "Redglow Boots",
+
+  "item.magemod.curse_helmet": "Curse Helmet",
+  "item.magemod.curse_chestplate": "Curse Chestplate",
+  "item.magemod.curse_leggings": "Curse Leggings",
+  "item.magemod.curse_boots": "Curse Boots",
+
+  "block.magemod.mod_portal":"Mod Portal",
+
+  "creativetab.mage_tab": "Mage Tab"
+}
